@@ -1,6 +1,5 @@
 # IshanSaha
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ishan-saha&show_icons=true">
-### CEH || OSCP
 
 ### Repos related Hacking:
 
