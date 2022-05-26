@@ -12,5 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-saha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishan-saha&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=ishan-saha&theme=radical)<br>
 🚧 **Current Project:** [Janus](https://github.com/ishan-saha/Janus)
